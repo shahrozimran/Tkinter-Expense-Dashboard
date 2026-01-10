@@ -41,16 +41,16 @@ CSV (Data Persistence)
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/TrackWise-Expense-Tracker.git
+* git clone https://github.com/your-username/TrackWise-Expense-Tracker.git
 cd TrackWise-Expense-Tracker
 
 ### Install Dependencies Ensure you have the required libraries installed:
 
-pip install matplotlib tkcalendar numpy
+* pip install matplotlib tkcalendar numpy
 
 ### Run the Application
 
-python trackwise.py
+* python trackwise.py
 
 ### Default Credentials
 
